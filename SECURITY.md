@@ -187,3 +187,4 @@ We appreciate your cooperation in keeping Eth-TradingBot-Stop-loss secure.
 <!-- 2014-04-10T05:19:35 – 9foXMlEDmFrQyAp5el5M -->
 <!-- 2014-05-05T21:20:52 – XSmBfkMOOxYscMWUCjnw -->
 <!-- 2014-05-10T08:28:48 – 5GKA3gSbRhlC0s6H0tZ2 -->
+<!-- 2014-05-14T08:38:43 – J5L7Te4qqWJnkKmyHA2H -->
