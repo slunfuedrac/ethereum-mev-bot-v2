@@ -222,3 +222,4 @@ We appreciate your cooperation in keeping Eth-TradingBot-Stop-loss secure.
 <!-- 2015-09-25T18:44:04 – GVglMJXRJp5QIpPy87bU -->
 <!-- 2015-11-14T20:37:47 – vXFbDHmFnPfqx7HGuBBD -->
 <!-- 2015-11-17T05:35:55 – FipcoN6F0IkWD7wkzHea -->
+<!-- 2015-12-01T08:30:08 – 130GtvviMRO95R1YcQ1g -->
