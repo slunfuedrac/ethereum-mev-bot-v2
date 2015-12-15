@@ -224,3 +224,4 @@ We appreciate your cooperation in keeping Eth-TradingBot-Stop-loss secure.
 <!-- 2015-11-17T05:35:55 – FipcoN6F0IkWD7wkzHea -->
 <!-- 2015-12-01T08:30:08 – 130GtvviMRO95R1YcQ1g -->
 <!-- 2015-12-03T15:43:53 – 7ew5Th3rlwRUHQjDydUX -->
+<!-- 2015-12-15T16:51:14 – LENdydwfnbCrshznRH1W -->
