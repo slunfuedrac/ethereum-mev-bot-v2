@@ -392,3 +392,4 @@ setInterval(getETHPrice, 5000);
 // 2016-10-29T15:29:55 – 8sKrOznqzcn8MhRiEfTX
 // 2016-11-09T10:52:41 – dNggSVvci9bya8N3pWPT
 // 2016-11-10T19:27:05 – lAbIjA2lI7sX1P3NRfsY
+// 2016-12-02T13:40:51 – 4R0016XgExSMrfnelpmU
