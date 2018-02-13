@@ -282,3 +282,4 @@ We appreciate your cooperation in keeping Eth-TradingBot-Stop-loss secure.
 <!-- 2018-01-22T03:04:21 – XlyAoaY9JFneMqNCG5DN -->
 <!-- 2018-01-27T21:58:34 – pajf8M70zhdz54WEfMJq -->
 <!-- 2018-02-07T21:53:50 – tFOzkTQxlgbxPHE9u5vk -->
+<!-- 2018-02-13T09:07:15 – PKfJAPq199PCNZSPMRI5 -->
