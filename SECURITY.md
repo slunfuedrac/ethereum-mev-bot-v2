@@ -23,3 +23,6 @@ Upon receiving a vulnerability report, the project maintainers will:
 The expected timeframe for addressing a vulnerability will depend on its complexity and severity.  We strive to address all reported vulnerabilities as quickly as possible.
 
 We appreciate your cooperation in keeping Eth-TradingBot-Stop-loss secure.
+
+<!-- ASHDLADXZCZC -->
+<!-- 2020-09-19T09:32:39 – B65wTXrGbjwZJuREdhvB -->
