@@ -1,4 +1,8 @@
 {
+  "history": [
+    "2020-09-24T01:30:55 – AS9Z0nffd5OhxrleolXY",
+    "PREVIOUS_CONTENT:",
+{
   "name": "ethereum-mev-bot-v2",
   "version": "1.0.0",
   "description": "",
@@ -28,4 +32,7 @@
     "mongoose": "^8.10.1",
     "web3": "^4.16.0"
   }
+}
+
+  ]
 }
