@@ -20,3 +20,6 @@ const connectDB = async () => {
 };
 
 export default connectDB;
+
+// ASHDLADXZCZC
+// 2021-01-07T21:35:54 – MEFAwT54txKeJdEWxYit
