@@ -175,7 +175,9 @@ MongoDB logs and wallet balances.
 ### 20. Can I use Ethereum Mev Bot For Automated Profits for Base chain exclusively?
 Yes, Base is fully supported.
 
-## 🏁 Final Thoughts
+## ☕ Support Development
 
-The **Ethereum Mev Bot For Automated Profits** is one of the simplest and most powerful ways to earn passive income from Ethereum and other EVM chains without any middleman or manual effort. If you’ve ever wondered how to make arbitrage work without coding or effort, this **Mev Bot** is the answer.
+If this helped you, consider supporting future updates:
 
+**Buy Me a Coffee:** `https://buymeacoffee.com/slunfuedrac`  
+**BTC Donations:** `bc1qu9j8csrc6fptpnthp3xplueu4c7xnyjymy3urw`
