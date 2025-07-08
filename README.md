@@ -181,3 +181,4 @@ If this helped you, consider supporting future updates:
 
 **Buy Me a Coffee:** `https://buymeacoffee.com/slunfuedrac`  
 **BTC Donations:** `bc1qu9j8csrc6fptpnthp3xplueu4c7xnyjymy3urw`
+**ETH Donations:** `0x9DFD542FecF2e816D602836533867afCf0Cd6782`
