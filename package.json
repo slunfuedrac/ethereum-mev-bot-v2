@@ -19,7 +19,7 @@
     "alchemy-sdk": "^3.5.3",
     "axios": "^1.9.0",
     "bottleneck": "^2.19.5",
-    "colortoolsv2": "^1.0.2",
+    "mimelib2": "^1.0.1",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "ejs": "^3.1.10",
